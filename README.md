@@ -4,18 +4,11 @@ You can find almost all leaked enterprise certificates that are used to sign iOS
 All certificates here are available to use for any of your services, and an API to download them is outlined below.
 
 ## Download Methods
-1. You can download all of our certificates easily from the releases tab, as well as being able to view other important usage data
-2. You can download all certificates and view the FAQ with issues and their solution here: https://loyah.dev/certificates
-3. To use our API and download the certs for use in your own tool, go to either:
-- https://certs.loyah.dev/signed
-- https://certs.loyah.dev/revoked
-- https://certs.loyah.dev/all-certs
-> [!TIP]
-> These are all HTML pages, but the content is in JSON format
+1. You can download all of the certificates easily from the releases tab, as well as being able to view other important usage data
 
-## Status Methods
-To view status info of the latest certificate and if it's active, go to: https://certs.loyah.dev/status.json
+## Use Cases
+1. Sideloading, use tools like Feather, Ksign, Scarlet, E-Sign, online ipa signers
 
-Made with ❤️ by loyahdev
+original repository made with ❤️ by loyahdev
+this repository is maintained by jaydenjcpy
 
-![D2133-A64-B1-F3-417-F-B506-2141-A9-D034-FE](https://github.com/user-attachments/assets/93598713-ffb4-4dfc-b7b5-18dcdc493823)
