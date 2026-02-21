@@ -4,8 +4,8 @@ You can find almost all leaked enterprise certificates that are used to sign iOS
 All certificates here are available to use for any of your services, and an API to download them is outlined below.
 
 ## Download Methods
-1. You can download all certificates and view the FAQ with issues and their solution here: https://loyah.dev/certificates
-2. You can download all of our certificates easily from the releases tab, as well as being able to view other important usage data
+1. You can download all of our certificates easily from the releases tab, as well as being able to view other important usage data
+2. You can download all certificates and view the FAQ with issues and their solution here: https://loyah.dev/certificates
 3. To use our API and download the certs for use in your own tool, go to either:
 - https://certs.loyah.dev/signed
 - https://certs.loyah.dev/revoked
