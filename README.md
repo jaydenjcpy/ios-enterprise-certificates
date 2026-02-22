@@ -7,7 +7,7 @@ All certificates here are available to use for any of your services, and an API 
 1. You can download all of the certificates easily from the releases page and click on the .zip file with the certificate name, as well as being able to view other important usage data, *passcode provided in the readme in the .zip files*
 
 ## Use Cases
-1. Sideloading, use tools like Feather, Ksign, Scarlet, E-Sign, online ipa signers
+1. Sideloading, use tools like Feather (https://github.com/claration/Feather), Ksign (https://github.com/Nyasami/Ksign), Scarlet (https://usescarlet.com/), E-Sign, online ipa signers
 
 ## Credits
 
