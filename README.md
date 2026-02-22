@@ -11,7 +11,7 @@ All certificates here are available to use for any of your services, and an API 
 
 ## Credits
 
-original repository made with ❤️ by loyahdev
+original repository (https://github.com/loyahdev/certificates) made with ❤️ by loyahdev
 
 this repository is maintained by jaydenjcpy
 
