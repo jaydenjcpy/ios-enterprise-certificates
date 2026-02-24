@@ -16,7 +16,7 @@ Apple or the owners of these certificates can revoke these certificates at any t
 
 original repository (https://github.com/loyahdev/certificates) made with ❤️ by loyahdev
 
-Source of certs: https://t.me/AppleP12
+Source of certs: https://t.me/AppleP12, https://applejr.net
 
 this repository is maintained by jaydenjcpy
 
