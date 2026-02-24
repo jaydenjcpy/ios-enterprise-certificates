@@ -9,6 +9,9 @@ All certificates here are available to use for any of your services, and an API 
 ## Use Cases (examples)
 1. Sideloading, use tools like Feather (https://github.com/claration/Feather), Ksign (https://github.com/Nyasami/Ksign), Scarlet (https://usescarlet.com/), E-Sign, online ipa signers
 
+## Beware
+Apple or the owners of these certificates can revoke these certificates at any time, so I'd recommend getting an anti-revoke dns, I'd recommend the one from WSF team https://wsfteam.netlify.app/#configprofiles
+
 ## Credits
 
 original repository (https://github.com/loyahdev/certificates) made with ❤️ by loyahdev
