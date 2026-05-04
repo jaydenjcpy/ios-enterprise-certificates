@@ -10,13 +10,13 @@ All certificates here are available to use for any of your services, and an API 
 1. Sideloading, use tools like [Feather](https://github.com/claration/Feather), [Ksign](https://github.com/Nyasami/Ksign), [Scarlet](https://usescarlet.com/), [E-Sign](https://esign.yyyue.xyz/), online ipa signers(ex.https://flarestore.app/signer/)
 
 ## Beware
-Apple or the owners of these certificates can revoke these certificates at any time, so I'd recommend getting an anti-revoke dns, I'd recommend the one from WSF team https://wsfteam.netlify.app/#configprofiles
+Apple or the owners of these certificates can revoke these certificates at any time, so I'd recommend getting an anti-revoke dns, I'd recommend the one from [WSF team](https://wsfteam.netlify.app/#configprofiles)
 
 ## Credits
 
 original repository (https://github.com/loyahdev/certificates) made with ❤️ by loyahdev
 
-Source of certs: https://t.me/AppleP12, https://applejr.net
+Source of certs: [AppleP12](https://t.me/AppleP12), [AppleJR](https://applejr.net)
 
 this repository is maintained by jaydenjcpy
 
